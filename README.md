@@ -1,4 +1,4 @@
-`#Cursor Free Trial Reset Tool
+# Cursor Free Trial Reset Tool
 
 <div align="center">
 
